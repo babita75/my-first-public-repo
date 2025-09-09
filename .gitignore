@@ -1,0 +1,24 @@
+For Node.js projects:
+
+node_modules/
+npm-debug.log*
+.env
+dist/
+*.log
+
+For general projects:
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Environment
+.env
